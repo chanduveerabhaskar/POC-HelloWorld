@@ -1,9 +1,4 @@
 
-![image](https://github.com/user-attachments/assets/246c0b39-fa92-435d-99b4-83a887776df2)
-
-
-
-
 Step 1: Create the Web Application
 First, let's create a simple web application that displays "Hello, World!".
 index.html
@@ -102,7 +97,7 @@ README.md
 # Hello World Application
 
 ## Architecture Diagram
-!Architecture Diagram
+![image](https://github.com/user-attachments/assets/246c0b39-fa92-435d-99b4-83a887776df2)
 
 ## CI/CD Pipeline
 1. **Checkout Code**: Pulls the latest code from the repository.
